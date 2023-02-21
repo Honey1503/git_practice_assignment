@@ -5,7 +5,7 @@ let count=0;
         {
             if(num%i==0)
             {
-                count--;
+                count++;
             }
         }
     if(count==2)    {
