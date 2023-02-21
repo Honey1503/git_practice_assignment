@@ -1,4 +1,3 @@
-
 let num=3;
 let count=0;
     
@@ -16,4 +15,3 @@ let count=0;
     {
         console.log("It's not a prime number");
     }
-
